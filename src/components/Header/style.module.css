@@ -1,0 +1,21 @@
+.header {
+    padding: 18px 0;
+    background-color: #6CC4D8;    
+}
+
+.wrapper nav a {
+    text-decoration: none;
+    color: white;
+}
+
+.wrapper,
+.wrapper nav {
+    display: flex;
+    align-items: center;
+    column-gap: 53px;
+    color: white;
+}
+
+.active_page {
+    text-decoration: underline;
+}

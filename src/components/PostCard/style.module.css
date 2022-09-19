@@ -1,0 +1,40 @@
+.card {
+  width: 296px;
+  height: 282px;
+  background-color:  #E44CB1;
+  border-radius: 14px;
+  padding: 10px;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  margin: 10px 0;
+}
+
+.text {
+  color: white;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: left;
+}
+
+.btn {
+  display: inline-block;
+  width: 80px;
+  height: 34px;
+  background-color: #CF8383;
+  border-radius: 7px;
+  border: none;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  color: white;
+  margin: 24px 10px;
+  text-decoration: none;
+  padding-top: 10px;
+}
